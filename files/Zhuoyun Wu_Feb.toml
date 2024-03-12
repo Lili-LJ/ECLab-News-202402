@@ -1,0 +1,36 @@
+[editor]
+name = "Zhuoyun Wu"
+degree = "Undergraduate, 2021"
+
+[article.1]
+title = "Comparison of face-based and voice-based first impressions in a Chinese sample"
+doi = "https://doi.org/10.1111/bjop.12675"
+authors = "Zhongqing Jiang, Dong Li, Zhao Li, Yi Yang, Yangtao Liu, Xin Yue, Qi Wu, Hong Yang, Xiaolin Cui, Peng Xue"
+journal = "British Journal of Psychology"
+publish = "2024, 115:20–39"
+category = "Face, Voice"
+summary = "该研究比较了基于面孔和声音线索形成的第一印象，发现它们在个性特征上存在差异。面孔的第一印象与能力和亲和力有关，声音的第一印象与能力、亲和力和可靠性有关。"
+abstract = "People often form first impressions of others based on face and/or voice cues. This study aimed to compare the first impressions formed under these two cues. First, we compared free descriptions based on face and voice cues and found differences in the content and frequency of the personality words. We then compiled three wordlists used for face-based and voice-based first impression evaluations separately or simultaneously. Second, using these wordlists, we compared face-based and voice-based first impression ratings and found that both had significant intra-rater and inter-rater reliability. However, using the mean of the actors' self-rating and their acquaintance rating as the validity criterion, only the ratings of ‘ingenuous’ and ‘mature’ traits in the face-based first impression evaluation were significantly correlated with the validity criterion. Factor analysis revealed that face-based first impression had the dimensions of capability and approachability, while voice-based first impression had capability, approachability and reliability. The findings indicate that stable first impressions can be formed by either face or voice cues. However, the specific composition of impressions will vary between the cues. These results also provide a foundation for studying first impressions formed by an integrated perception of voice and face cues."
+keywords = "face, first impression, free description, voice"
+
+[article.2]
+title = "Mood induction through imitation of full-body movements with different affective intentions"
+doi = "https://doi.org/10.1111/bjop.12681"
+authors = "Eva-Madeleine Schmidt, Rebecca A. Smith, Andrés Fernández, Birte Emmermann, Julia F. Christensen"
+journal = "British Journal of Psychology"
+publish = "2024, 115:148–180"
+category = "Mood"
+summary = "该研究利用舞蹈运动来调节情绪，通过模仿舞者的动作来改变情绪状态。研究发现，无论是模仿人类舞者还是机器人舞者的动作，都能成功地诱发快乐和悲伤的情绪，并且快乐情绪的诱发程度和参与者对任务的喜好程度可以预测情绪诱发后的工作动力。"
+abstract = "Theories of human emotion, including some emotion embodiment theories, suggest that our moods and affective states are reflected in the movements of our bodies. We used the reverse process for mood regulation; modulate body movements to regulate mood. Dancing is a type of full-body movement characterized by affective expressivity and, hence, offers the possibility to express different affective states through the same movement sequences. We tested whether the repeated imitation of a dancer performing two simple full-body dance movement sequences with different affective expressivity (happy or sad) could change mood states. Computer-based systems, using avatars as dance models to imitate, offer a series of advantages such as independence from physical contact and location. Therefore, we compared mood induction effects in two conditions: participants were asked to imitate dance movements from one of the two avatars showing: (a) videos of a human dancer model or (b) videos of a robot dancer model. The mood induction was successful for both happy and sad imitations, regardless of condition (human vs. robot avatar dance model). Moreover, the magnitude of happy mood induction and how much participants liked the task predicted work-related motivation after the mood induction. We conclude that mood regulation through dance movements is possible and beneficial in the work context."
+keywords = "affect, avatar, bodily expression, dance, embodiment, human–avatar interaction, mood regulation, movement"
+
+[article.3]
+title = "Perception of helper's autonomous motivation increases recipient's prosocial behaviour intentions via feelings of gratitude"
+doi = "https://doi.org/10.1002/ejsp.3026"
+authors = "Ying Yang, Wenqi Li, Kennon M. Sheldon, Yu Kou"
+journal = "European Journal of Social Psychology"
+publish = "2024, 54:465–477"
+category = "Feeling"
+summary = "这四项研究探讨了接受者对帮助者动机（自主性 vs. 控制性）的感知对接受者后续亲社会意图的影响，并测试了其中的中介机制。研究结果表明，将帮助者视为具有自主性动机的人会增加接受者从事亲社会行为的意愿，而这种影响是通过增加感激之情来中介的。"
+abstract = "Four studies investigated the impact of a recipient's perception of a helper's motivation (autonomous vs. controlled) on the recipient's subsequent prosocial intentions, alongside testing a mediational mechanism. Study 1 employed a questionnaire method to assess the relationships between participants’ lay theories of helper's prosocial motivations (i.e., the degree of autonomy), their dispositional gratitude and their prosocial tendencies. Studies 2–4 manipulated a helper's autonomous versus controlled motivation within hypothetical scenarios (Studies 2 and 3) and within recalled events (Study 4), testing the effect of the helper's motivation on the recipient's prosocial intentions towards the helper (Studies 2–4), a bystander (Study 3) and others in general (Study 4) as well as the mediating role of gratitude. The findings consistently demonstrated that perceiving helpers as having autonomous motivation led to heightened intentions among recipients to engage in prosocial behaviour, which was mediated by increased feelings of gratitude. These effects remained robust after controlling for relevant factors including participants’ demographic information, social desirability bias and perceptions of egoism within helpers. Our findings highlight the role of perceived helper's autonomous motivation on recipient's prosocial behaviours, which enhances the knowledge regarding reciprocity and pay-it-forward behaviour."
+keywords = "autonomy, gratitude, motivation, prosocial behaviour, recipients"
