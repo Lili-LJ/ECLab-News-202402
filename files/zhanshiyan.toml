@@ -1,0 +1,15 @@
+[editor]
+name = "Shiyan Zhan"
+degree = "Postgraduate, 2024"
+
+[article.1]
+title = "Dissecting abstract, modality-specific and experience-dependent coding of affect in the human brain"
+doi = "https://doi.org/10.1126/sciadv.adk6840"
+authors = "Giada Lettieri, Giacomo Handjaras, Elisa M. Cappello, Francesca Setti, Davide Bottari, Valentina Bruno, Matteo Diano, Andrea Leo, Carla Tinti, Francesca Garbarini, Pietro Pietrini, Emiliano Ricciardi & Luca Cecchetti"
+journal = "Science Advances"
+publish = "8 Mar 2024 · Vol 10, Issue 10"
+category = "Affect"
+summary = "为探究情感实例在大脑中的编码方式，研究者通过正常被试、先天盲被试、先天聋被试脑活动与情绪评分之间的对比，证明了情感实例被编码在包括感觉皮层、前额叶皮层和颞叶皮层在内的庞大脑网络中，且过去的感官经验塑造了大脑组织情绪信息的方式。这表明人脑中存在一个情感状态框架，该框架受到发育过程中感官输入的影响。"
+abstract = "Emotion and perception are tightly intertwined, as affective experiences often arise from the appraisal of sensory information. Nonetheless, whether the brain encodes emotional instances using a sensory-specific code or in a more abstract manner is unclear. Here, we answer this question by measuring the association between emotion ratings collected during a unisensory or multisensory presentation of a full-length movie and brain activity recorded in typically developed, congenitally blind and congenitally deaf participants. Emotional instances are encoded in a vast network encompassing sensory, prefrontal, and temporal cortices. Within this network, the ventromedial prefrontal cortex stores a categorical representation of emotion independent of modality and previous sensory experience, and the posterior superior temporal cortex maps the valence dimension using an abstract code. Sensory experience more than modality affects how the brain organizes emotional information outside supramodal regions, suggesting the existence of a scaffold for the representation of emotional states where sensory inputs during development shape its functioning."
+
+#本篇文章没有关键词，故keywords行删去。如有不妥或需修改处，请联系詹诗妍（微信：Zsyan233）。祝工作顺利。
