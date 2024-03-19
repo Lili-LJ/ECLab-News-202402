@@ -1,0 +1,14 @@
+[editor]
+name = "Xuyao Fan"
+degree = "Undergraduate, 2021"
+
+[article.1]
+title = "Overprotective parenting and social anxiety in adolescents: The role of emotion regulation"
+doi = "https://doi.org/10.1177/02654075231173722"
+authors = "Louise Mathijs, Bénédicte Mouton, Grégoire Zimmermann, Stijn Van Petegem"
+journal = "Journal of Social and Personal Relationships"
+publish = "Volume 41, Issue 2, Pages: 413 - 434" 
+category = "Emotion"
+summary = "本研究旨在探讨过度保护的养育方式与青少年社交焦虑症状相关的潜在机制，通过测试278名瑞士青少年的情绪调节策略，发现过度保护的养育方式与青少年的社交焦虑症状显着相关。"
+abstract = "The present study sought to examine the underlying mechanisms through which overprotective parenting relates to social anxiety symptoms in adolescents. Specifically, we tested whether the adolescents’ emotion regulation strategies of dysregulation, suppression, and integration, played an intervening role in the association between perceived maternal and paternal overprotection and social anxiety symptoms in adolescents. A sample of 278 Swiss adolescents filled out questionnaires assessing perceived overprotective parenting, social anxiety symptoms and emotion regulation. Results indicated that perceived overprotective parenting was significantly associated with adolescents’ social anxiety symptoms. Furthermore, structural equation modeling analyses indicated that emotional dysregulation, in particular, intervenes in the association between both maternal and paternal overprotection and social anxiety. These findings highlight emotion regulation difficulties as a potential mechanism underlying the association between parental overprotection and social anxiety, suggesting that adolescents’ maladaptive emotion regulation strategies as well as overprotecting parenting could be targeted when treating social anxiety symptoms."
+keywords = "Social anxiety, overprotective parenting, emotion regulation, adolescents"
