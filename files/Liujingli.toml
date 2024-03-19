@@ -1,0 +1,47 @@
+[editor]
+name = "jingli Liu"
+degree = "Undergraduate, 2021"
+
+[article.1]
+title = "Facial Disgust in Response to Touches, Smells, and Tastes"
+doi = "https://doi.org/10.1037/emo0001257"
+authors = "Supreet Saluja, Ilona Croy, Anne Gruhl, Alexander Croy, Majid Kanbaty, Andreas Hellmann, Richard J. Stevenson"
+journal = "Emotion"
+publish = "2024, Volume 24, Issue 1 (Feb)" 
+category = "Face" 
+summary = "本研究检查并对比了由邻近感官刺激产生的厌恶面部表情。64名参与者被要求在两种情况下触摸、嗅闻和品尝引起厌恶的中性控制刺激，并对其厌恶程度进行评级，结果表明至少有两种不同的厌恶面孔存在于接近的感觉中。" 
+abstract = "Disgust serves to defend the body from the entry of toxins and disease. Central to this function is a strong relationship with the proximate senses of smell, taste, and touch. Theory suggests that distinct and reflexive facial movements should be evoked by gustatory and olfactory disgusts, serving to impede bodily entry. While this hypothesis has received some support from facial recognition studies, whether smell and taste disgusts actually produce distinct facial responses, is unknown. Moreover, there has been no assessment of the facial response evoked by contact with disgusting objects. To address these issues, this study compared facial responses to touch, smell, and taste disgusts. Sixty-four participants were asked to touch, smell, and taste disgust-evoking and neutral control stimuli, and rate them on disgust, on two occasions—first, while they were video recorded and second, with facial electromyography (EMG) applied (measuring levator labii and corrugator supercilii activity). Videos were coded for facial expressions by humans and for facial action units (FAUs) by machines. Self-report data confirmed the disgust stimuli as highly disgusting. Comparison of the overall pattern of FAUs evoked by touch, smell, and taste disgusts, indicated two distinct facial disgusts for the proximate senses—a chemosensory and a tactile-disgust face. The nose wrinkle and upper lip raise were central to all facial disgusts, indicating their centrality to the disgust face. Several facial disgusts appear to exist, each with different functional goals."
+keywords = "facial expression, disgust, proximate senses, smell, taste, touch" 
+
+[article.2]
+title = "Altered emotional mind–body coherence in older adults."
+doi = "https://doi.org/10.1037/emo0001249"
+authors = "Saito, Akie Sato, Wataru Yoshikawa, Sakiko"
+journal = "Emotion"
+publish = "2024, Volume 24, Issue 1 (Feb)" 
+category = "Emotion" 
+summary = "本文研究了老年人在连续效价评级和行为反应之间的情感一致性，以及连续唤醒评级和生理测量之间的情感一致性，结果表明，老年人和年轻人之间的情绪身心一致性在数量和质量上都有所不同。" 
+abstract = "Coherence between subjective experience and bodily responses in emotion is assumed to have a positive influence on well-being, which might be particularly valuable in late adulthood. Previous studies of young adults’ continuous subjective, behavioral, and physiological responses to emotional films reported emotional mind–body coherence. In contrast, research regarding emotional coherence in older adults has been scarce. In this study, we examined emotional coherence in older adults between continuous valence ratings and behavioral responses (facial electromyography [EMG] of the corrugator supercilii and zygomatic major muscles), as well as between continuous arousal ratings and physiological measures (electrodermal activity [EDA] and fingertip temperature), in response to four emotion-eliciting film clips (anger, sadness, contentment, and amusement) film clips and an emotionally neutral clip. Intraindividual cross-correlation analyses revealed that the coherence between valence ratings and corrugator EMG activity for the anger-eliciting film was weaker in older adults than in young adults, who completed an identical experiment. Age differences also emerged in the coherence of arousal ratings with EDA and fingertip temperature measures, respectively, while participants watched the anger-eliciting and contentment-eliciting films; while negative correlations were found for older adults, positive correlations were found for young adults. These results indicate that emotional mind–body coherence somewhat differs quantitatively and qualitatively between older and young adults."
+keywords = "emotional mind–body coherence, facial electromyography (EMG), fingertip temperature, electrodermal activity (EDA), emotion-eliciting films" 
+
+[article.3]
+title = "Effects of working memory training on different goals of cognitive reappraisal."
+doi = "https://doi.org/10.1037/emo0001253"
+authors = "Fangfang Long, Weiyi Zhou, Ting Zhang, Ziyuan Zhang, Renlai Zhou"
+journal = "Emotion"
+publish = "2024, Volume 24, Issue 1 (Feb)" 
+category = "Emotion" 
+summary = "本研究对参与者进行了为期20天的工作记忆训练，以探索训练对负面情绪的下调和上调的影响。结果表明，工作记忆训练可能会引起普遍的认知增强，这种增强可以广泛地转移到任何类型的负面情况下，以帮助个人调节负面情绪的影响。此外，通过训练，对负情绪调节的改善可以持续3个月以上。" 
+abstract = "Working memory training (WMT) has shown potential benefits in emotion regulation (ER), mainly in terms of improved ability to downregulate negative emotions in cognitive reappraisal. However, the goal of cognitive reappraisal can be not only to reduce negative emotion but also to increase negative emotion. It is not clear what effect WMT has on the upregulation of negative emotion. In the current study, we conducted a 20-day WMT with participants to explore the effects of training on the down- and upregulation of negative emotion and followed participants for 3 months after training to examine the persistent effects of training. Our results suggest that participants in the training group improved their ability to regulate negative emotions in both the down- and upregulation conditions. Notably, benefits from training were also observed in the look negative condition, suggesting that WMT may elicit general cognitive enhancement that is broadly transferable to any kind of negative situation to help individuals regulate the effects of negative emotions. In addition, our study also showed that the improvement in negative ER by training could last even over 3 months. "
+keywords = "working memory training, up- and downregulation of negative emotion, sustained improvement, ERPs" 
+
+[article.4]
+title = "Evaluating past emotions in changing facial expressions: The role of current emotions and culture."
+doi = "https://doi.org/10.1037/emo0001263"
+authors = "Xia Fang, Wei Liu,  Kerry Kawakami"
+journal = "Emotion"
+publish = "2024, Volume 24, Issue 1 (Feb)" 
+category = "Culture" 
+summary = "本研究调查了对过去面部表情的评价是否以及如何受到后续表情的影响，以及这一过程是否因东亚和西方文化而异。结果表明，对过去面部表情的解释与随后表情的效价相似，这种时间情感背景的影响在东方文化中比西方文化中更明显。" 
+abstract = "Facial expressions in daily life typically change from one emotional state to another. To understand how people process emotions, it is important to know not only how current facial expressions are interpreted but also recent past expressions. While researchers have recently focused on perceptions of current expressions, little is known about how past expressions are gauged and about cultural differences in this process. The present research investigated whether and how evaluations of past facial expressions are influenced by subsequent expressions, and whether this process varies across East Asian and Western cultures. Specifically, Chinese and Canadian participants judged the degree of positivity/negativity of past expressions after viewing expressions that changed from past emotions—low-intensity smiles (Experiment 1), high-intensity smiles (Experiment 2), and anger (Experiment 3)—to current positive or negative emotions (collected between 2019 and 2020). All three experiments consistently found an assimilation effect, whereby past expressions were rated more positively when the current expression was positive than when the current expression was negative. Moreover, this assimilation effect was consistently greater in Chinese than in Canadian participants. Together, these findings suggest that the interpretation of past facial expressions assimilates toward the valence of subsequent expressions and that the impact of this temporal emotional context is more pronounced in Eastern relative to Western cultures. "
+keywords = "facial expressions, culture, temporal emotional context, assimilation" 
