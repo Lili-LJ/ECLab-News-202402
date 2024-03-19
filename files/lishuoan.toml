@@ -1,0 +1,14 @@
+[editor]
+name = "Shuoan Li"
+degree = "Undergraduate, 2022"
+
+[article.1]
+title = "Live music stimulates the affective brain and emotionally entrains listeners in real time"
+doi = "https://doi.org/10.1073/pnas.2316306121"
+authors = "Wiebke Trost, Caitlyn Trevor, Natalia Fernandez, and Sascha Frühholz"
+journal = "Proceedings of the National Academy of Sciences"
+publish = "Volume 121, Issue 10, Feb 2024"
+category = "Emotion,Art"
+summary = "本研究旨在探究与录制音乐相比，现场音乐对听众情绪反应和神经响应的影响。研究使用了闭环神经反馈装置，实时测量听众的杏仁核活动，并将其显示给现场表演的音乐家。结果显示，现场音乐引发了更高且更一致的杏仁核活动，涉及更广泛的情绪处理神经网络，并展示了音乐表演与听众脑活动之间的实时动态同步过程。"
+abstract = "Music is powerful in conveying emotions and triggering affective brain mechanisms. Affective brain responses in previous studies were however rather inconsistent, potentially because of the non-adaptive nature of recorded music used so far. Live music instead can be dynamic and adaptive and is often modulated in response to audience feedback to maximize emotional responses in listeners. Here, we introduce a setup for studying emotional responses to live music in a closed-loop neurofeedback setup. This setup linked live performances by musicians to neural processing in listeners, with listeners' amygdala activity was displayed to musicians in real time. Brain activity was measured using functional MRI, and especially amygdala activity was quantified in real time for the neurofeedback signal. Live pleasant and unpleasant piano music performed in response to amygdala neurofeedback from listeners was acoustically very different from comparable recorded music and elicited significantly higher and more consistent amygdala activity. Higher activity was also found in a broader neural network for emotion processing during live compared to recorded music. This finding included observations of the predominance for aversive coding in the ventral striatum while listening to unpleasant music, and involvement of the thalamic pulvinar nucleus, presumably for regulating attentional and cortical flow mechanisms. Live music also stimulated a dense functional neural network with the amygdala as a central node influencing other brain systems. Finally, only live music showed a strong and positive coupling between features of the musical performance and brain activity in listeners pointing to real-time and dynamic entrainment processes."
+keywords = "amygdala, emotion, limbic, music, neurofeedback"
