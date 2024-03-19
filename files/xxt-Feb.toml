@@ -1,0 +1,33 @@
+[editor] 
+name = "Xintong Xie" # 格式类似于 Shuoan Li 
+degree = "Undergraduate, 2020" # 格式类似于 Undergraduate, 2022 
+[article.1] # 罗马数字指定文献编号
+title = "Face–context integration and trustworthiness evaluation" 
+doi = "https://doi.org/10.1080/10463283.2024.2315915" # 以 https://doi.org/开头
+authors = " Marco Brambilla, Simone Mattavelli, Matteo Masi" 
+journal = "European Review of Social Psychology" 
+publish = "13 Feb, 2024" # 如发发布年份，期号，卷号，页码
+category = "Emotion" # Emotion, Face, Cross-culture 等，注意首字母大写
+summary = "作者研究发现消极情感性与关系支持和紧张无关，但与神经质和尽责性有关。相比之下，积极情感性与来自朋友和家人的支持、尽责性和外向性有关，与伴侣间的关系紧张和神经质呈负相关。" # 中文的概括
+abstract = "Judgements of trustworthiness based on facial features have mainly been investigated by presenting faces in isolation. However, real-life situations often involve contextual cues. Here, we review our work showing that judgements of trustworthiness from faces are influenced by contextual threat. Individuals are judged as less trustworthy when their faces are surrounded by threatening, as opposed to neutral or merely negative, contexts. Delving into the mechanisms underlying face-context integration, our work reveals that the bond between trustworthiness and threat goes beyond mere stimuli congruency, suggesting that threatening contexts alter person evaluation by conveying information of adaptive significance. We propose an inferential approach to face-context integration, where faces and contexts are encoded relationally: modifying this relational encoding, via verbal or emotional cues, results in changes in face-context integration. We conclude by outlining the significance of embracing the impact of contextual cues in shaping impressions from faces." 
+keywords = "Person perception, face, trustworthiness, threat, context" # 用英文逗号分隔
+[article.2] # 参照 article.1 
+title = "Less Is More: How the Language of Fiction Fosters Emotion Recognition" 
+doi = "https://doi.org/10.1177/17540739241232350" # 以 https://doi.org/开头
+authors = "Emanuele Castano" 
+journal = "Emotion Review" 
+publish = "Vol. 0, No. 0 (February 2024) 1–11 " # 如发发布年份，期号，卷号，页码
+category = "Emotion" # Emotion, Face, Cross-culture 等，注意首字母大写
+summary = "文章探讨的内容是小说如何促进情绪识别技能的发展。作者讨论了小说在人类进化中的作用，以及它如何继续悄悄地教导我们各种技能。文章特别关注书面小说如何通过不直接告诉我们，而是通过展示虚构人物的情感生活来磨练我们的情绪识别技能。作者提出了“少即是多”的假设，即那些不直接描述他人内心生活，而是提供线索并鼓励读者推断的文本，更能培养这种能力。" # 中文的概括
+abstract = " Stories, in pictorial format, orally narrated, and later on as narrative texts, have played a key role in human evolution and to this day continue to surreptitiously teach us things and skills. In recent decades, psychologists and cognitive scientists have begun documenting the role of stories, and particularly fiction, in refining our sociocognitive skills. In this essay, I focus specifically on how stories, particularly written fiction, hone our emotion recognition skills. I present a brief overview of existing theorizing and research findings, and propose the less-is-more hypothesis, according to which emotion recognition skills are sharpened by stories that do not tell us, but rather show us the emotional life of fictional characters" 
+keywords = " fiction, emotion recognition, theory of mind, social cognition" # 用英文逗号分隔
+[article.3] 
+title = "Narrating Anger Appropriately: Implications for Narrative Form and Successful Coping" 
+doi = "https://doi.org/10.1037/17540739241230817" # 以 https://doi.org/开头
+authors = " Tilmann Habermas,  Stephan Bongard"
+journal = "Emotion Review"
+publish = "Vol. 0, No. 0 (February 2024) 1–14" # 如发发布年份，期号，卷号，页码
+category = "Emotion" # Emotion, Face, Cross-culture 等，注意首字母大写
+summary = "这篇文章的主题是探讨叙事如何适当地表达愤怒情绪，并讨论了叙事形式对于成功应对愤怒的重要性。文章提出，情绪心理学可以通过纳入叙事和对话中适当性的协商来显著获益。作者以愤怒为例，认为叙述者需要构建合理的情绪事件叙事，以便听众能够给予验证性回应。" # 中文的概括
+abstract = " We propose that emotion psychology would significantly gain from including narrative(s) and the conversational negotiation of appropriateness. Using the example of anger, we argue that narrators need to construct plausible narratives of emotional events to achieve validating responses by listeners. We argue first that narrators attempt to demonstrate that the appraisal conditions for their emotion are given so that the emotion fits the narrated events. Second, we argue that this in turn explains why narratives of specific emotions exhibit specific forms. Third, we argue that coping with emotional experiences is helped by narrating such that the fittingness of emotions is demonstrated. We conclude that narrative plays an important role for identifying, processing, communicating, and eliciting emotions " 
+keywords = "narrative, anger, fittingness, appropriateness, emotion regulation, listener respons" # 用英文逗号分隔
