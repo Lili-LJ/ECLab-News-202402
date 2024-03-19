@@ -1,0 +1,54 @@
+[editor]
+name = "Ruotong Wang"
+degree = "Undergraduate, 2020"
+
+[article.1]
+Ashley E. Symons & Adam T. Tierney. (2024). , 50(2), 189–203. 
+title = "Musical experience is linked to enhanced dimension-selective attention to pitch and increased primary weighting during suprasegmental categorization. "
+doi = "https://doi.org/10.1037/xlm0001217"
+authors = "Ashley E. Symons & Adam T. Tierney"
+journal = "Journal of Experimental Psychology: Learning, Memory, and Cognition "
+publish = "Volume 50, Issue 3, Feb 2024"
+category = "Voice"
+summary = "这篇文章探讨了音乐训练对个体语调线索加权策略的影响。实验结果表明，与非音乐家相比，音乐家在更关注音高，而在关注响度方面的无显著差异。此外，在语调分类任务中，音乐家更重视音高，而非音乐家则更重视时长。"
+abstract = "Speech perception requires the integration of evidence from acoustic cues across multiple dimensions. Individuals differ in their cue weighting strategies, that is, the weight they assign to different dimensions during speech categorization. In two experiments, we investigate musical training as one potential predictor of individual differences in prosodic cue weighting strategies. Attentional theories of speech categorization suggest that prior experience with the task-relevance of a particular dimension leads that dimension to attract attention. Experiment 1 tested whether musicians and nonmusicians differed in their ability to selectively attend to pitch and loudness in speech. Compared to nonmusicians, musicians showed enhanced dimension-selective attention to pitch but not loudness. Experiment 2 tested the hypothesis that musicians would show greater pitch weighting during prosodic categorization due to prior experience with the task-relevance of pitch cues in music. Listeners categorized phrases that varied in the extent to which pitch and duration signaled the location of linguistic focus and phrase boundaries. During linguistic focus categorization, musicians upweighted pitch compared to nonmusicians. During phrase boundary categorization, musicians upweighted duration relative to nonmusicians. These results suggest that musical experience is linked with domain-general enhancements in the ability to selectively attend to certain acoustic dimensions in speech. As a result, musicians may place greater perceptual weight on a single primary dimension during prosodic categorization, while nonmusicians may be more likely to choose a perceptual strategy that integrates across multiple dimensions. These findings support attentional theories of cue weighting, which suggest attention influences listeners’ perceptual weighting of acoustic dimensions during categorization."
+keywords = "speech, music, prosody, attention, pitch"
+
+
+
+[article.2]
+title = "Racial bias in perceptions of children’s pain"
+doi = "https://doi.org/10.1037/xap0000491"
+authors = "Summers Kevin M., Pitts Shane & Lloyd E. Paige"
+journal = "Journal of Experimental Psychology: Applied "
+publish = "Volume 30, Issue 1, 2024"
+category = "Emotion"
+summary = "这篇文章通过八个实验调查成年人（包括普通人和小学老师）是否会根据儿童的种族来评估其疼痛感受。研究发现，白人成年人普遍认为4至6岁的黑人儿童比同龄的白人儿童感受到的疼痛更少，并且这种效应与儿童的性别无关。"
+abstract = "Film clips are widely utilized to evoke emotional responses in the laboratory. We found, however, that different fields tend to select emotional film clips using different approaches. Specifically, psychologists focus more on the discreteness of emotions, whereas computer scientists focus more on the valence and arousal of emotions. Different concerns lead to distinct film selection methods, which may challenge the validity of the emotional databases and hinder communication between disciplines. In recent years, the hybrid discrete–dimensional model has been developed. Based on this hybrid theory, in this study, we attempted to synthesize the diverse approaches and developed a possible unified criterion for emotional film selection across disciplines. Twenty-eight film clips aimed at eliciting four basic emotions (i.e., anger, sadness, fear, and happiness) were evaluated by 70 participants. We examined both discrete and dimensional indicators and applied a new integrative film selection criterion. The results showed that compared with the discrete model or the dimensional model, the hybrid model presented the most reasonable film clip selection outcomes, and 12 film clips were recommended to induce strong and discrete emotions. These findings may enlighten further research on emotion in both theoretical and methodological ways."
+keywords = " children, stereotyping, pain perception, racism, health disparities"
+
+
+
+[article.3]
+title = "Perception of threat and intent to harm from vocal and facial cues."
+doi = "https://doi.org/10.1177/17470218231169952"
+authors = Tompkinson, J., Mileva, M., Watt, D., & Mike Burton, A."
+journal = "Quarterly Journal of Experimental Psychology"
+publish = "Volume 77, Issue 2, Feb 2024"
+category = "Voice"
+summary = "这篇研究探讨了关于如何从说话者的声音中推断出威胁或意图造成伤害的能力，以及一些关键语言变量对这些评价的影响。研究一发现人们倾向于认为音调较低的声音，尤其是男性说话者的声音，听起来更具威胁性并传达更强的伤害意图。研究二通过多模态刺激发现说话者面部的视觉信息对威胁和意图评分有着显著影响。"
+abstract = "What constitutes a “threatening tone of voice”? There is currently little research exploring how listeners infer threat, or the intention to cause harm, from speakers’ voices. Here, we investigated the influence of key linguistic variables on these evaluations (Study 1). Results showed a trend for voices perceived to be lower in pitch, particularly those of male speakers, to be evaluated as sounding more threatening and conveying greater intent to harm. We next investigated the evaluation of multimodal stimuli comprising voices and faces varying in perceived dominance (Study 2). Visual information about the speaker’s face had a significant effect on threat and intent ratings. In both experiments, we observed a relatively low level of agreement among individual listeners’ evaluations, emphasising idiosyncrasy in the ways in which threat and intent-to-harm are perceived. This research provides a basis for the perceptual experience of a “threatening tone of voice,” along with an exploration of vocal and facial cue integration in social evaluation."
+keywords = "Voice perception, threat, intent to harm, audiovisual integration"
+
+
+
+[article.4]
+title = "Listening to understand: The role of high-quality listening on speakers’ attitude depolarization during disagreements. "
+doi = " https://doi.org/10.1037/pspa0000366"
+authors = "Itzchakov, G., Weinstein, N., Leary, M., Saluk, D., & Amar, M.  "
+journal = "Journal of Personality and Social Psychology"
+publish = "Volume 126, Issue 2, Feb 2024"
+category = "Behavior"
+summary = "研究通过视频剧情和实时互动进行了四项实验，表明当对话参与者真正倾听对方观点时，可以减少态度的极端化。"
+abstract = "Disagreements can polarize attitudes when they evoke defensiveness from the conversation partners. When a speaker talks, listeners often think about ways to counterargue. This process often fails to depolarize attitudes and might even backfire (i.e., the Boomerang effect). However, what happens in disagreements if one conversation partner genuinely listens to the other’s perspective? We hypothesized that when conversation partners convey high-quality listening—characterized by attention, understanding, and positive intentions—speakers will feel more socially comfortable and connected to them (i.e., positivity resonance) and reflect on their attitudes in a less defensive manner (i.e., have self-insight). We further hypothesized that this process reduces perceived polarization (perceived attitude change, perceived attitude similarity with the listener) and actual polarization (reduced attitude extremity). Four experiments manipulated poor, moderate, and high-quality listening using a video vignette (Study 1) and live interactions (Studies 2–4). The results consistently supported the research hypotheses and a serial mediation model in which listening influences depolarization through positivity resonance and nondefensive self-reflection. Most of the effects of the listening manipulation on perceived and actual depolarization generalized across indicators of attitude strength, specifically attitude certainty and attitude morality. These findings suggest that high-quality listening can be a valuable tool for bridging attitudinal and ideological divides."
+keywords = "listening, disagreements, positivity resonance, attitude change, attitude depolarization"
